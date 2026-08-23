@@ -1,4 +1,4 @@
-![Profile Banner](./githunn.png)
+![Profile Banner](./panner.jpeg)
 Hi, I'm Rawan Rizk 👋
 
 Flutter Developer | Full-Stack Developer | Information Technology Student 💻
